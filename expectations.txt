@@ -1,1 +1,4 @@
 I expect to learn about what it's like to be a web developer in this course even if it is just the bare fundamentals. 
+
+Gonzales Feedback:
+I completely agree with your expectation. Understanding the bare fundamentals of web development will provide a strong foundation for further learning and practical application. I believe this course will offer valuable insights into the world of web development.
